@@ -1,0 +1,18 @@
+!
+! Title: .io games DNS filter
+! Description: filter list of most popular .io games.
+! Homepage: https://github.com/brawdevtest/ioG-list
+! Last modified: 2022-04-07
+!
+!
+!
+||agar.io^
+||slither.io^
+||diep.io^
+||tetr.io^
+||skribbl.io^
+||2048.io^
+||krunker.io^
+||starve.io^
+||cardgames.io^
+||paper-io.com^
